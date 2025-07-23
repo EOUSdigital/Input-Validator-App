@@ -5,6 +5,8 @@
 
 🎯 Goal: Use `do...while` to ensure valid input is entered before continuing.
 
+---
+
 ### 🧠 Requirements
 Simulate input validation for:
 1. A name: must not be empty or just whitespace.
